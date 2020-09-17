@@ -1,6 +1,6 @@
 SRC =main.c
 
-PROJECT_NAME = FACTORIAL.out
+PROJECT_NAME = 	EVODD.out
 
 $(PROJECT_NAME): $(SRC)
 	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
