@@ -1,4 +1,4 @@
-SRC =main.c
+SRC =main.c\evodd.c
 
 PROJECT_NAME = 	EVODD.out
 
